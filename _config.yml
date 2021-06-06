@@ -1,0 +1,66 @@
+# Site settings
+title: COVID-19 Memorial Run
+description: A 19-mile anytime, all-virtual run to remember COVID-19 victims.
+cover: assets/images/man-jogging-outside-web.jpg
+#logo: assets/images/logo.png
+#favicon: assets/images/favicon.png
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://covid19memorial.run" # the base hostname & protocol for your site
+
+pagination:
+
+  # Site-wide kill switch, disabled here it doesn't run at all 
+  enabled: false
+
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: false
+
+  per_page: 1
+
+# Social
+#facebook: facebook
+twitter: Covid19Run
+github: drhyrum/covid19memorialrun
+
+#Additional Pages
+about: about
+home: 
+#privacy-policy: privacy-policy
+
+
+permalink: /:title
+
+
+# Google Analytics
+analytics_id: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+  - jekyll-paginate-v2
+
+
+# Settings for rake task
+safe: False
+lsi: False
+username: samanyougarg #github username
+repo: hanuman #github repository
+branch: master #branch
+relative_source: ../hanuman/ #source directory
+destination: ../hanuman-pages/ #destination directory
+production_url:  https://samanyougarg.com/
+source_url:  https://github.com/samanyougarg/hanuman #source repository url
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml

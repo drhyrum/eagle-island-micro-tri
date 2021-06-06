@@ -1,0 +1,55 @@
+---
+layout: default
+pagination: 
+  enabled: true
+---
+
+
+  <figure class="ampstart-image-fullpage-hero m0 relative mb4">
+    <amp-img width="404" height="720" alt="Cover" layout="responsive" src="{{ site.baseurl }}{{ site.cover }}" media="(max-width: 415px)"></amp-img>
+    <amp-img height="720" alt="Cover" layout="fixed-height" src="{{ site.baseurl }}{{ site.cover }}" media="(min-width: 416px)"></amp-img>
+    <figcaption class="absolute top-0 right-0 bottom-0 left-0">
+      <header class="p3">
+        <h1 class="ampstart-fullpage-hero-heading mb0 hanuman">
+          <span class="ampstart-fullpage-hero-heading-text title">
+            {{ site.title }}
+          </span>
+        </h1>
+        <h2 class="ampstart-fullpage-hero-heading mb0">
+          <span class="ampstart-fullpage-hero-heading-text description">
+            {{ site.description }}
+          </span>
+        </h2>
+    </header>
+    {% if site.cover %}
+    <footer class="absolute left-0 right-0 bottom-0">
+      <a class="ampstart-readmore py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Read more</span></a>
+    </footer>
+    {% else %}
+    <footer class="absolute left-0 right-0 bottom-0">
+      <a class="ampstart-read py3 caps line-height-2 text-decoration-none center block h5" href="#content"><span class="ampstart-readmore-text px1">Read more</span></a>
+    </footer>
+    {% endif %}
+    </figcaption>
+  </figure>
+
+<main id="content" role="main" class="content">
+
+  <h1>A "social distancing" distance run</h1>
+  <ul style="font-size: 20px">
+    <li>Choose your own course
+    </li>
+    <li>Run anytime in May 2020</li>
+    <li>19 miles ~ 3/4 marathon</li>
+    <li>Run <a href="/about">safely</a></li>
+  </ul>
+
+  <h1>Our purpose</h1>
+  <p style="font-size: 20px">Remember the victims of COVID-19 by breaking off the shackles of self-quarantine in a free, safe, socially-distant 19-mile run.</p>
+
+  <h1>Demonstrate your solidarity by flattening your curves</h1>
+  <p style="font-size: 20px">Choose your own course.  Run at your own pace.  Complete in a single run, or over the course of days.</p>
+
+</main>
+
+{% include footer.html %}
