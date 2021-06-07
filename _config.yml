@@ -1,7 +1,7 @@
 # Site settings
 title: Eagle Island Micro-Triathlon
 description: An unifficial, yet LEGIT kid-friendly micro (tinier than mini) triathlon for families.
-cover: assets/images/microtrilogo.jpg
+cover: assets/images/microtrilogo2.jpg
 #logo: assets/images/logo.png
 #favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
