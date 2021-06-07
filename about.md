@@ -16,6 +16,6 @@ permalink: /about/
 
 ## Setup / Cleanup
 1. Bikes should be dropped off at Grandma's house on Saturday morning before the race.  More details after registering.
-2. We may want 2 adults to stay behind shuttle cars from the starting line the finish line (parking lot), and greet contestants as they pass the finish line.
+2. We may want 2 adults to stay behind shuttle cars from the starting line the finish line (parking lot), and cheer contestants as they pass the finish line.
 3. Life preservers may be left, but should be picked up from Grandma's house after the race.
 4. Bring your own lunch for the end-of-tri picnic at Eagle Island state park.
