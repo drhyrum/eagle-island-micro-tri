@@ -6,7 +6,7 @@ permalink: /about/
 
 <amp-img width="600" height="300" layout="responsive" src="https://mk0completetrid5cejy.kinstacdn.com/wp-content/uploads/kids-running-1024x417.jpg"></amp-img>
 ## Registration
-1. Text Hyrum with names and ages of participants (recommended ages 12+ or 10+ with an adult)!  To keep logistics simple, we may have to limit to the first 25 participants.
+1. Text Hyrum with names and ages of participants (recommended ages 12+ with an adult)!  To keep logistics simple, we may have to limit to the first 25 participants.
 
 ## Safety
 <p style="color:red">While we have selected the safest parts of the river for the float and street for the bike ride, and have run the coarse ourselves, it does have hazards, especially for children.  Children must be accompanied by an adult and follow instructions of volunteer guides.  You participate at your own risk.</p>
