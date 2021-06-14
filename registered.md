@@ -1,35 +1,35 @@
 # Invited and confirmed
-- Anderson 
+* Anderson 
  - H
  - N
  - S
  - J
  - G
-- Gertsch 
+* Gertsch 
  - K
  - C
  - J
  - P
  - L
-- Jackson 
+* Jackson 
  - R
  - J
  - G
  - V
  - S
-- Relyea 
+* Relyea 
  - R
  - K
  - B
  - ??
 
 # Invited and "probably not"
-- Johnson - baptism day for Daxton
+* Johnson - baptism day for Daxton
  - S
  - A
  - B
 
-- Crump - No response
+* Crump - No response
  - S
  - C
  - E
@@ -37,20 +37,20 @@
  - Tr?
 
 # Possible invitations
-- Rich
- - Mike
- - Megan
- - Charlie
+* Rich
+ - Mk
+ - Mg
+ - Ch
 
-- Steelman?
+* Steelman?
  - T
  - J
  - ?
  - Z
 
 # Guides
-- John (river)
+* John (river)
 
 # Overall
-- Adults/guides: 9
-- Kids: 10-11
+* Adults/guides: 9
+* Kids: 10-11
