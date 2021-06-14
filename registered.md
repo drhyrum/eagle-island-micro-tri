@@ -28,3 +28,29 @@
  - S
  - A
  - B
+
+- Crump - No response
+ - S
+ - C
+ - E
+ - R & L
+ - Tr?
+
+# Possible invitations
+- Rich
+ - Mike
+ - Megan
+ - Charlie
+
+- Steelman?
+ - T
+ - J
+ - ?
+ - Z
+
+# Guides
+- John (river)
+
+# Overall
+- Adults/guides: 9
+- Kids: 10-11
